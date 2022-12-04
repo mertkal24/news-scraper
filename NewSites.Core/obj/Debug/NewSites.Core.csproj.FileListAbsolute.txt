@@ -1,0 +1,6 @@
+C:\Users\Casper\Desktop\C# Eğitim\winNews\NewSites.Core\bin\Debug\NewSites.Core.dll
+C:\Users\Casper\Desktop\C# Eğitim\winNews\NewSites.Core\bin\Debug\NewSites.Core.pdb
+C:\Users\Casper\Desktop\C# Eğitim\winNews\NewSites.Core\obj\Debug\NewSites.Core.csprojAssemblyReference.cache
+C:\Users\Casper\Desktop\C# Eğitim\winNews\NewSites.Core\obj\Debug\NewSites.Core.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\C# Eğitim\winNews\NewSites.Core\obj\Debug\NewSites.Core.dll
+C:\Users\Casper\Desktop\C# Eğitim\winNews\NewSites.Core\obj\Debug\NewSites.Core.pdb

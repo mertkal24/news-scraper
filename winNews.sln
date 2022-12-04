@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winNews", "winNews\winNews.csproj", "{2BE41DFA-F7F4-46CD-B58D-F065256CEE9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewSites.Core", "NewSites.Core\NewSites.Core.csproj", "{9779EA17-2576-4C98-AB50-DEF67CEA1ABE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsSites", "NewsSites\NewsSites.csproj", "{DBC1B316-AC31-43D8-805C-8D6E974DE8C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BE41DFA-F7F4-46CD-B58D-F065256CEE9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE41DFA-F7F4-46CD-B58D-F065256CEE9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE41DFA-F7F4-46CD-B58D-F065256CEE9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE41DFA-F7F4-46CD-B58D-F065256CEE9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9779EA17-2576-4C98-AB50-DEF67CEA1ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9779EA17-2576-4C98-AB50-DEF67CEA1ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9779EA17-2576-4C98-AB50-DEF67CEA1ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9779EA17-2576-4C98-AB50-DEF67CEA1ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBC1B316-AC31-43D8-805C-8D6E974DE8C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC1B316-AC31-43D8-805C-8D6E974DE8C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC1B316-AC31-43D8-805C-8D6E974DE8C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC1B316-AC31-43D8-805C-8D6E974DE8C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A97E1C8E-C733-4CBB-956C-8027C0D78CB6}
+	EndGlobalSection
+EndGlobal
